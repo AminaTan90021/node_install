@@ -1,6 +1,6 @@
-# node_install
+## node_install
 
-To install Node.js, you can follow these general steps:
+> To install Node.js, you can follow these general steps:
 
 1. Choose the installation method:
    - Package Manager: Node.js can be installed using a package manager like `npm` (Node Package Manager) or `yarn`. This method is suitable for most operating systems and provides easy package management capabilities.
